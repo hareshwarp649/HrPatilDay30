@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\bin\Debug\MultipleRides2.exe.config
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\bin\Debug\MultipleRides2.exe
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\bin\Debug\MultipleRides2.pdb
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.exe
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.pdb
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\bin\Debug\nunit.framework.dll
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\bin\Debug\nunit.framework.xml
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\MultiRides2\MultipleRides2\obj\Debug\MultipleRides2.csproj.CopyComplete

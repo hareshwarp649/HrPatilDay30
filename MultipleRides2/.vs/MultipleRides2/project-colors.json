@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecc87ab3-46ea-425d-8140-eb6f3d3aab1a": {
+      "ProjectGuid": "ecc87ab3-46ea-425d-8140-eb6f3d3aab1a",
+      "DisplayName": "MultipleRides2",
+      "ColorIndex": 0
+    },
+    "c9faebcf-9b36-49e4-9c00-395fb49ab48b": {
+      "ProjectGuid": "c9faebcf-9b36-49e4-9c00-395fb49ab48b",
+      "DisplayName": "MultiRidesTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

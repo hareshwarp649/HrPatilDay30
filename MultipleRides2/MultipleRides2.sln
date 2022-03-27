@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleRides2", "MultipleRides2.csproj", "{ECC87AB3-46EA-425D-8140-EB6F3D3AAB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiRidesTest", "..\MultiRidesTest\MultiRidesTest.csproj", "{C9FAEBCF-9B36-49E4-9C00-395FB49AB48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC87AB3-46EA-425D-8140-EB6F3D3AAB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC87AB3-46EA-425D-8140-EB6F3D3AAB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC87AB3-46EA-425D-8140-EB6F3D3AAB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC87AB3-46EA-425D-8140-EB6F3D3AAB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FAEBCF-9B36-49E4-9C00-395FB49AB48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FAEBCF-9B36-49E4-9C00-395FB49AB48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FAEBCF-9B36-49E4-9C00-395FB49AB48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FAEBCF-9B36-49E4-9C00-395FB49AB48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15AB1C7-BA37-4DA1-B737-D39A84E653E8}
+	EndGlobalSection
+EndGlobal
