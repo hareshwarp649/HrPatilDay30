@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ed618cb-9503-40f2-aea7-547132653aa1": {
+      "ProjectGuid": "3ed618cb-9503-40f2-aea7-547132653aa1",
+      "DisplayName": "FareCalculate",
+      "ColorIndex": 0
+    },
+    "4adf15bc-2109-4712-9b7e-e8467d127cc0": {
+      "ProjectGuid": "4adf15bc-2109-4712-9b7e-e8467d127cc0",
+      "DisplayName": "FareCalcuTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

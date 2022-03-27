@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FareCalculate", "FareCalculate.csproj", "{3ED618CB-9503-40F2-AEA7-547132653AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FareCalcuTest", "..\FareCalcuTest\FareCalcuTest.csproj", "{4ADF15BC-2109-4712-9B7E-E8467D127CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED618CB-9503-40F2-AEA7-547132653AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED618CB-9503-40F2-AEA7-547132653AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED618CB-9503-40F2-AEA7-547132653AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED618CB-9503-40F2-AEA7-547132653AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADF15BC-2109-4712-9B7E-E8467D127CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADF15BC-2109-4712-9B7E-E8467D127CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADF15BC-2109-4712-9B7E-E8467D127CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADF15BC-2109-4712-9B7E-E8467D127CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9310ED5-340E-428D-994F-C463BC9802E8}
+	EndGlobalSection
+EndGlobal
