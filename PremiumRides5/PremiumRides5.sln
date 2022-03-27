@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumRides5", "PremiumRides5.csproj", "{F2F76231-DC03-42AD-9F7A-F8474A493225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumRideTest", "..\PremiumRideTest\PremiumRideTest.csproj", "{5C8C07AB-B03D-446B-A14B-24D27C09F233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F76231-DC03-42AD-9F7A-F8474A493225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F76231-DC03-42AD-9F7A-F8474A493225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F76231-DC03-42AD-9F7A-F8474A493225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F76231-DC03-42AD-9F7A-F8474A493225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8C07AB-B03D-446B-A14B-24D27C09F233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8C07AB-B03D-446B-A14B-24D27C09F233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8C07AB-B03D-446B-A14B-24D27C09F233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8C07AB-B03D-446B-A14B-24D27C09F233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D19168-852E-4637-9DCE-8DCED2DB2104}
+	EndGlobalSection
+EndGlobal

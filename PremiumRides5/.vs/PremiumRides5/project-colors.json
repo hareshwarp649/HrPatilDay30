@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2f76231-dc03-42ad-9f7a-f8474a493225": {
+      "ProjectGuid": "f2f76231-dc03-42ad-9f7a-f8474a493225",
+      "DisplayName": "PremiumRides5",
+      "ColorIndex": 0
+    },
+    "5c8c07ab-b03d-446b-a14b-24d27c09f233": {
+      "ProjectGuid": "5c8c07ab-b03d-446b-a14b-24d27c09f233",
+      "DisplayName": "PremiumRideTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
