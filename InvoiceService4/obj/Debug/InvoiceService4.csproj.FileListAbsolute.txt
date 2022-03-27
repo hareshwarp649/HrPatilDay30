@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\bin\Debug\InvoiceService4.exe.config
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\bin\Debug\InvoiceService4.exe
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\bin\Debug\InvoiceService4.pdb
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\obj\Debug\InvoiceService4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\obj\Debug\InvoiceService4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\obj\Debug\InvoiceService4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\obj\Debug\InvoiceService4.exe
+C:\Users\ADMIN\source\repos\CabInvoiceGenerator\InvoiceServ4\InvoiceService4\obj\Debug\InvoiceService4.pdb

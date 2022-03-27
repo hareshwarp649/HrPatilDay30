@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "febd55c8-f7a2-4602-9a8d-99134e186aa4": {
+      "ProjectGuid": "febd55c8-f7a2-4602-9a8d-99134e186aa4",
+      "DisplayName": "InvoiceService4",
+      "ColorIndex": 0
+    },
+    "ff566736-543b-4394-aa52-f812bf6b78a2": {
+      "ProjectGuid": "ff566736-543b-4394-aa52-f812bf6b78a2",
+      "DisplayName": "InvoiceSerTest4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
