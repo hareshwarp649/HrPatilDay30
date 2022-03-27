@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2381a769-4699-46b4-8c38-c9be0884e934": {
+      "ProjectGuid": "2381a769-4699-46b4-8c38-c9be0884e934",
+      "DisplayName": "EnhanceRide",
+      "ColorIndex": 0
+    },
+    "83646ae7-37d5-49c2-b27a-39279f39f696": {
+      "ProjectGuid": "83646ae7-37d5-49c2-b27a-39279f39f696",
+      "DisplayName": "EnhanceRdeTest3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
